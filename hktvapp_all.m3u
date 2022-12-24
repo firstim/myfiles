@@ -17,9 +17,11 @@
  http://cdn.hklive.tv/xxxx/108/index.m3u8
 #EXTINF:-1 tvg-name="有線 新聞台" tvg-logo="https://i.imgur.com/XQnIwzp.png", 有線 新聞台
  http://cdn.hklive.tv/xxxx/109/index.m3u8
-#EXTINF:-1 tvg-name="香港國際財經台" tvg-logo="https://i.imgur.com/XQnIwzp.png", 香港國際財經台
+#EXTINF:-1 tvg-name="76香港國際財經台" tvg-logo="https://i.imgur.com/XQnIwzp.png", 76香港國際財經台
  http://cdn.hklive.tv/xxxx/76/index.m3u8
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://i.imgur.com/XQnIwzp.png", HOY TV
+#EXTINF:-1 tvg-name="77HOY TV" tvg-logo="https://i.imgur.com/XQnIwzp.png", 77HOY TV
  http://cdn.hklive.tv/xxxx/77/index.m3u8
 #EXTINF:-1 tvg-name="HOY TV 資訊台" tvg-logo="https://i.imgur.com/XQnIwzp.png", HOY TV 資訊台
  http://cdn.hklive.tv/xxxx/78/index.m3u8
+#EXTINF:-1 tvg-name="CCTV-1港澳版" tvg-logo="https://i.imgur.com/XQnIwzp.png", CCTV-1港澳版
+ http://cdn.hklive.tv/xxxx/33/index.m3u8
