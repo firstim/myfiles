@@ -25,3 +25,17 @@
  http://cdn.hklive.tv/xxxx/78/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-1港澳版" tvg-logo="https://i.imgur.com/XQnIwzp.png", CCTV-1港澳版
  http://cdn.hklive.tv/xxxx/33/index.m3u8
+#EXTINF:-1 tvg-name=" TVBS HD" tvg-logo="https://i.imgur.com/XQnIwzp.png", TVBS HD
+ http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+#EXTINF:-1 tvg-name=" 寰宇新闻" tvg-logo="https://i.imgur.com/XQnIwzp.png", 寰宇新闻
+ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+#EXTINF:-1 tvg-name="ELTA体育1世界盃" tvg-logo="https://i.imgur.com/XQnIwzp.png",ELTA体育1世界盃
+https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
+#EXTINF:-1 tvg-name=" ELTA體育2世界盃" tvg-logo="https://i.imgur.com/XQnIwzp.png", ELTA體育2世界盃
+ https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
+#EXTINF:-1 tvg-name=" CNN" tvg-logo="https://i.imgur.com/XQnIwzp.png", CNN
+ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+#EXTINF:-1 tvg-name=" Global News" tvg-logo="https://i.imgur.com/XQnIwzp.png", Global News
+ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-name=" Fox News" tvg-logo="https://i.imgur.com/XQnIwzp.png", Fox News
+ https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
