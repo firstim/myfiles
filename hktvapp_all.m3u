@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Now 新聞" tvg-logo="https://i.imgur.com/XQnIwzp.png", Now 新聞
+ https://cdn2.hklive.tv/xxxx/332/index.m3u8
+#EXTINF:-1 tvg-name="有線 新聞台" tvg-logo="https://i.imgur.com/XQnIwzp.png", 有線 新聞台
+ http://cdn.hklive.tv/xxxx/109/index.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://i.imgur.com/XQnIwzp.png", 翡翠台
  http://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-name="J2台" tvg-logo="https://i.imgur.com/XQnIwzp.png", J2台
